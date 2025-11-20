@@ -1,4 +1,4 @@
-# ECE5 McLaren
+
 <div style="text-align:center; font-size:1.1rem; color:#333;">Arjun Caputo, Carlos Briones, Brian Martinez, Hieu Le</div>
 
 ---
