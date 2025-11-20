@@ -12,7 +12,7 @@ This project is our final project for ECE 5. This project combines our (basic) k
 ### BOM:
 - 1 ESP32 Dev Board
 - 3D Printed Parts
- - 
+ - Chassis, Light Shield, Photoresistor Mount, Motor Cover
 - 1 Caster Wheel
 - 1 L298N Motor Driver
 - LEDs
@@ -24,6 +24,9 @@ This project is our final project for ECE 5. This project combines our (basic) k
 - 7 !0k Ohm Resistors
 - 7 Photoresistor
 - 1 9V Battery
+
+### Control
+We use a basic PID loop to tune our line following.
 
 
 
