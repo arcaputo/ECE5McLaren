@@ -9,6 +9,7 @@ This project is our final project for ECE 5. This project combines our (basic) k
 
 ## Hardware and Software
 <div style="background:#00A3E0; padding:10px; border-radius:6px; color:white; font-weight:bold; margin-bottom:10px; width:fit-content;">Aero Blue Highlight</div>
+
 ### BOM:
 - 1 ESP32 Dev Board
 - 3D Printed Parts
