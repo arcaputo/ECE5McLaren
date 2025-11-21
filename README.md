@@ -31,6 +31,7 @@ We use a basic PID loop to tune our line following.
 
 
 
+
 ## Initial Assembly
 <div style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center; margin-top:20px;">
   <img src="9F125F23-0C9B-4217-874B-EF0A6A96CBEF.JPG" alt="side view image" title="side view image" style="max-width:420px; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.2);"/>
