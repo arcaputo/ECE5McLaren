@@ -41,4 +41,7 @@ We use a basic PID loop to tune our line following.
 
 # Initial Line Following
 
-https://github.com/user-attachments/assets/4f66959e-6f67-4d23-b0fb-4d55cd831faf
+
+
+https://github.com/user-attachments/assets/4393dc19-ba48-421d-a165-e064f0209940
+
