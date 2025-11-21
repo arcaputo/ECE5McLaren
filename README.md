@@ -39,6 +39,7 @@ We use a basic PID loop to tune our line following.
 
 
 # Initial Line Following
+
 <div style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center; margin-top:20px;">
-  <video src="first-follow.MOV" alt="basic line following video" title="basic line following video" style="max-width:640px; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.2);"/>
+  <video src="![first-follow.MOV](https://github.com/user-attachments/assets/4f66959e-6f67-4d23-b0fb-4d55cd831faf)" alt="basic line following video" title="basic line following video" style="max-width:640px; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.2);"/>
 </div>
