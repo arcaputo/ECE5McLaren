@@ -39,7 +39,7 @@ We use a basic PID loop to tune our line following.
 </div>
 
 ## Initial Line Following
-<div style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center; margin-top:20px; transform: rotate(90deg);">
+<div style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center; margin-top:20px;">
 <video src="https://github.com/user-attachments/assets/4393dc19-ba48-421d-a165-e064f0209940" controls style="max-width:100%; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.2);"></video>
 </div>
 
