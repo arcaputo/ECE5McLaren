@@ -27,8 +27,18 @@ This project is our final project for ECE 5. This project combines our (basic) k
 - 1 9V Battery
 
 ### Control
-We use a basic PID loop to tune our line following.
+We use a basic PID loop to tune our line following. PID is a basic feedback control system that uses three components to account for error in our robot. There are three terms: kP, kI, and kD, which we tune to get our robot to turn smoothly. 
 
+The kP term is proportional to the error itself, so if we have a larger error, we expect a larger correction. High kP values can be useful for quick response time, but it may cause lots of overshoot. 
+
+The kD term is proportional to the change in error over time. This means as we get closer to our target, we slow down, so that we don't overshoot our target as much. Similarly, if we are getting further from our target, we get a greater correction.
+
+The kI term is proportional to the summation of all the system's error over time. This can be useful if we have steady-state error (if we are consistently offset from our goal).
+
+**Our final PID values**
+kP: 10
+kI: 0
+kD: 4
 
 
 
@@ -48,6 +58,15 @@ We use a basic PID loop to tune our line following.
 <div style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center; margin-top:20px;">
 <video src="https://github.com/user-attachments/assets/4393dc19-ba48-421d-a165-e064f0209940" controls style="max-width:100%; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.2);"></video>
 </div>
+
+## Poster
+
+
+## Competition Results
+
+## Competition Video
+
+## Improvements
 
 
 
